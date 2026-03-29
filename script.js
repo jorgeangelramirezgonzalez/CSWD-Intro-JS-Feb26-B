@@ -51,3 +51,4 @@ clock.innerText = new Date();
 setInterval(() => {
     clock.innerText = new Date();
 }, 1000); // one second
+//alert("¡Hola! JavaScript está funcionando");
